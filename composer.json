@@ -1,0 +1,21 @@
+{
+    "name": "maiuoc/helloconposer",
+    "description": "test",
+    "type": "project",
+    "license": "uoc",
+    "authors": [
+        {
+            "name": "maiuoc",
+            "email": "maiuoc.k8c@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
