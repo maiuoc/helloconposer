@@ -10,6 +10,6 @@ class SayHello
     }
      public static function TestKakak()
     {
-        return 'Test!';
+        return 'Test xcvxcvxcv!';
     }
 }
