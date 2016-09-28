@@ -6,6 +6,10 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Composer! czxcxzc zxczxc xcxcv c';
+        return 'Hello World, Composer!';
+    }
+     public static function TestKakak()
+    {
+        return 'Test!';
     }
 }
