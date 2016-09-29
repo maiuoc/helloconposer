@@ -12,4 +12,8 @@ class SayHello
     {
         return 'Test xcvxcvxcv!';
     }
+    function releaseVesrion()
+    {
+        return '1.1.2';
+    }
 }
